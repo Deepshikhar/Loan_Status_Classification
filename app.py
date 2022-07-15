@@ -14,12 +14,12 @@ from sklearn.utils import check_matplotlib_support
 import streamlit as st
 # from keras.preprocessing import image
 from tempfile import NamedTemporaryFile
-# from keras.preprocessing.image import load_img
-import keras
-from keras.models import Sequential
-from keras.preprocessing.image import ImageDataGenerator
-from keras.layers import Dense, Flatten, Dropout
-from keras.layers import Conv2D, MaxPooling2D
+# # from keras.preprocessing.image import load_img
+# import keras
+# from keras.models import Sequential
+# from keras.preprocessing.image import ImageDataGenerator
+# from keras.layers import Dense, Flatten, Dropout
+# from keras.layers import Conv2D, MaxPooling2D
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn import metrics
