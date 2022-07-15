@@ -9,7 +9,7 @@ import matplotlib.ticker as ticker
 from sklearn import preprocessing
 import time
 from PIL import Image
-from keras.models import load_model
+# from keras.models import load_model
 from sklearn.utils import check_matplotlib_support
 import streamlit as st
 from keras.preprocessing import image
