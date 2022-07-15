@@ -1,0 +1,11 @@
+keras==2.7.0
+matplotlib==3.5.1
+numpy==1.21.4
+pandas==1.4.1
+Pillow==9.2.0
+plotly==5.8.0
+protobuf==4.21.2
+pydeck==0.7.1
+scikit_learn==1.1.1
+seaborn==0.11.2
+streamlit==1.9.0
