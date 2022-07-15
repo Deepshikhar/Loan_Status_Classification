@@ -14,7 +14,7 @@ from sklearn.utils import check_matplotlib_support
 import streamlit as st
 from keras.preprocessing import image
 from tempfile import NamedTemporaryFile
-from keras.preprocessing.image import load_img
+# from keras.preprocessing.image import load_img
 import keras
 from keras.models import Sequential
 from keras.preprocessing.image import ImageDataGenerator
