@@ -25,7 +25,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn import metrics
 from sklearn.metrics import f1_score
 from sklearn.metrics import jaccard_score
-import cv2
+# import cv2
 
 F1_knn=0
 jk=0
