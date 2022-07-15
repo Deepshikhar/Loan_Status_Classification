@@ -12,7 +12,7 @@ from PIL import Image
 # from keras.models import load_model
 from sklearn.utils import check_matplotlib_support
 import streamlit as st
-from keras.preprocessing import image
+# from keras.preprocessing import image
 from tempfile import NamedTemporaryFile
 # from keras.preprocessing.image import load_img
 import keras
